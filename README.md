@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @oneofthegeeks
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning everything
+- 🌱 I’m currently learning YAML and anything homeassistant related.
+- 📫 you can reach me right here.
 
 <!---
 oneofthegeeks/oneofthegeeks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
